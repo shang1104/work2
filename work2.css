@@ -286,7 +286,7 @@ header {
 .bg_yellow {
   position: absolute;
   top: 0px;
-  left: 516px;
+  left: 514px;
   width: 851px;
 }
 
@@ -713,6 +713,10 @@ article .praise .praise-list-1 img, article .praise .praise-list-2 img, article 
 
 footer .foot {
   position: relative;
+}
+
+footer .foot .foot-img .foot_home {
+  width: 100%;
 }
 
 footer .foot .foot-img .foot_sm {

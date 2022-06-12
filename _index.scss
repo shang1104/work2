@@ -5,7 +5,7 @@
 
 // <!-- header 開始 -->
 header{
-    height: 100vh;
+    height:100vh;
 }
 .title{
     position: relative;
@@ -198,7 +198,7 @@ header{
 .bg_yellow{
     position: absolute;
     top: 0px;
-    left: 516px;
+    left: 514px;
     width: 851px;
     .bg_home_sm{
        display: none;
@@ -263,7 +263,7 @@ main{
             color: #747474;
             line-height: 150%;
         }
-    }   
+    } 
 }
 
 @media (max-width:375px){
@@ -546,6 +546,9 @@ footer{
     .foot{
         position: relative;
         .foot-img{
+            .foot_home{
+                width: 100%;
+            }
             .foot_sm{
                 display: none;
             }
